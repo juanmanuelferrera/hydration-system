@@ -1,0 +1,137 @@
+:PROPERTIES:
+:ID:       HYDRATION-TRACKER-2025
+:END:
+#+title:      Daily Hydration Tracker
+#+date:       [2025-09-07]
+
+* 🚰 2L Daily Water Challenge - Zero Friction System
+
+** 📋 Today's Hydration Log
+Date: [2025-09-07]
+
+*** Water Intake Schedule
+| Time  | Amount | Type      | Status | Notes |
+|-------+--------+-----------+--------+-------|
+| 07:30 | 250ml  | Wake up   | [ ]    |       |
+| 09:00 | 500ml  | Morning   | [ ]    |       |
+| 12:30 | 250ml  | Pre-lunch | [ ]    |       |
+| 14:00 | 500ml  | Afternoon | [ ]    |       |
+| 17:00 | 500ml  | Evening   | [ ]    |       |
+| 20:00 | 250ml  | Final     | [ ]    |       |
+|-------+--------+-----------+--------+-------|
+| TOTAL | 2250ml |           |        |       |
+
+*** Quick Tally Method
+Use this for super simple tracking:
+💧💧💧💧 (each drop = 500ml, goal = 4 drops)
+
+*** Hydration Points System
+- 500ml bottle = 25 points
+- Daily goal: 100 points
+- Weekly streak bonus: 500 points
+- Current streak: 0 days
+
+** 🎯 Strategies That Work
+
+*** Container Strategy
+- *1L bottle method*: Fill twice daily (easier math)
+- *500ml method*: Fill 4 times (more frequent wins)
+- *Rubber band hack*: Move bands down as you drink
+
+*** Habit Anchoring
+- After bathroom → Drink water
+- Before meals → 250ml
+- Return to desk → 3 big gulps
+- Phone notifications → Immediate sip
+
+*** Flavor Rotation
+| Day | Flavor |
+|-----+--------|
+| Mon | Lemon  |
+| Tue | Cucumber |
+| Wed | Mint   |
+| Thu | Berries |
+| Fri | Plain  |
+| Sat | Lime   |
+| Sun | Electrolyte |
+
+** 📊 Weekly Progress
+
+*** Week of [2025-09-07]
+| Date | Target | Actual | Streak | Notes |
+|------+--------+--------+--------+-------|
+| Mon  | 2000ml |        |        |       |
+| Tue  | 2000ml |        |        |       |
+| Wed  | 2000ml |        |        |       |
+| Thu  | 2000ml |        |        |       |
+| Fri  | 2000ml |        |        |       |
+| Sat  | 2000ml |        |        |       |
+| Sun  | 2000ml |        |        |       |
+
+** ⚙️ Automation Setup
+
+*** Scripts & Reminders
+- [X] water-reminder.sh created
+- [ ] Crontab configured  
+- [ ] Emacs hydration function
+- [ ] Phone app backup
+
+*** Key Locations
+- Bedside: 500ml bottle
+- Desk: 1L bottle
+- Kitchen: 500ml bottle
+- Car: 500ml bottle
+
+** 🏆 Achievements & Rewards
+
+*** Milestones
+- [ ] First 2L day
+- [ ] 7-day streak
+- [ ] 30-day habit
+- [ ] 100-day master
+
+*** Rewards System
+- 7 days → Favorite healthy meal
+- 14 days → New water bottle
+- 30 days → Something special
+- 100 days → Celebration!
+
+** 📝 Daily Template
+Copy this section for each new day:
+
+*** [DATE] Hydration Log
+| Time  | 250ml | 500ml | Notes |
+|-------+-------+-------+-------|
+| Wake  | [ ]   |       |       |
+| 9am   |       | [ ]   |       |
+| Lunch | [ ]   |       |       |
+| 2pm   |       | [ ]   |       |
+| 5pm   |       | [ ]   |       |
+| Night | [ ]   |       |       |
+
+*Total: ___ml / 2000ml*
+*Hydration Points: ___/100*
+
+** 🧠 Pro Tips
+- Room temperature water = easier to drink large amounts
+- Use a straw = drink faster
+- Cold water = slight metabolism boost  
+- Morning lemon water = vitamin C + hydration
+- Before eating = helps portion control
+- Track in HyperFiler Pro for gamification
+
+** 🚨 Emergency Strategies
+If behind on water:
+1. Set 15-min timer, drink 100ml every alarm
+2. Add lemon/lime for appeal
+3. Use largest bottle available
+4. Drink through straw
+5. Room temperature only
+
+** 📱 Quick Actions
+- Update today's table with [X] for completed
+- Add actual ml amounts
+- Note what worked/didn't work
+- Adjust tomorrow's plan accordingly
+
+*Last updated: [2025-09-07]*
