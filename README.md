@@ -31,10 +31,12 @@ chmod +x *.sh
 ```
 
 **For iPhone:**
-This system is designed for macOS, but you can recreate it on iPhone using:
-- **Shortcuts app** - Create automations for water reminders
-- **Water reminder apps** - WaterMinder, Hydro Coach, or Daily Water
-- **Apple Watch** - Use built-in Water tracking with haptic reminders
+Complete iPhone recreation available! See:
+- **Apple-Shortcuts-Exact-Setup.md** - Step-by-step Shortcuts automations
+- **Shortcuts-Import-Files.md** - Ready-to-copy configurations
+- **iPhone-Setup-Guide.md** - Alternative methods using apps
+
+The Shortcuts version creates 9 daily automations that replicate the persistent notification experience.
 
 ### 2. Configure Your Environment (Optional)
 If you use Emacs, add the hydration functions to your `init.el` - see the sample code in `HYDRATION_SYSTEM_GUIDE.md`.
