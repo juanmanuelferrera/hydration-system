@@ -165,7 +165,18 @@ crontab -l | grep water
 
 # Test manually  
 ./water-reminder-persistent.sh
+
+# Check if cron daemon is running
+pgrep -f cron
+
+# View recent reminder log
+tail -10 ~/.emacs.d/water-log.txt
 ```
+
+### ⚠️ Known Issue: Hour Format Bug (Fixed)
+**Problem**: Script might fail on hours 00-09 due to leading zero format  
+**Solution**: Updated to handle `08` vs `8` hour format automatically  
+**Status**: ✅ Fixed in latest version
 
 ### Permissions Issues?
 ```bash
@@ -177,6 +188,11 @@ chmod +x *.sh
 crontab -e
 # Comment out or delete the water reminder lines
 ```
+
+### Script Runs But No Dialog Shows?
+- Check macOS notification permissions
+- Ensure terminal-notifier is installed (optional)
+- Script uses native osascript dialogs (should always work)
 
 ## 🤝 Contributing
 
