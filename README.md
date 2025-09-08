@@ -48,6 +48,7 @@ If you use Emacs, add the hydration functions to your `init.el` - see the sample
 
 ## 📋 Files Included
 
+### Core Scripts
 | File | Purpose |
 |------|---------|
 | `water-reminder-persistent.sh` | Main notification script (persistent dialogs) |
@@ -56,6 +57,18 @@ If you use Emacs, add the hydration functions to your `init.el` - see the sample
 | `setup-water-crontab.sh` | One-click crontab setup for standard notifications |
 | `hydration-tracker.org` | Detailed tracking template for Org-mode |
 | `HYDRATION_SYSTEM_GUIDE.md` | Complete setup guide and pro tips |
+
+### iPhone Implementation
+| File | Purpose |
+|------|---------|
+| `Apple-Shortcuts-Exact-Setup.md` | Step-by-step Shortcuts automations (9 daily reminders) |
+| `Shortcuts-Import-Files.md` | JSON configurations and templates |
+| `iPhone-Setup-Guide.md` | Complete iPhone implementation methods |
+| `iphone-alternative-implementations.md` | Alternative methods (Scriptable, apps, PWA) |
+| `scriptable-setup-guide.md` | Complete JavaScript solution for Scriptable app |
+| `shortcuts-url-scheme.md` | URL schemes and quick import methods |
+| `water-logger.html` | Web launcher for creating shortcuts |
+| `CREATE_SHORTCUTS_INSTRUCTIONS.txt` | Detailed manual setup instructions |
 
 ## 🎯 Daily Schedule
 
